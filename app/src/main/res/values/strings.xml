@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MatchMyStyle</string>
+    <string name="btnCam">Select/Capture Image</string>
+    <string name="apprl">Apparel</string>
+    <string name="btnNext">View Results</string>
+    <string name="splimg">Splash Image</string>
+    <string name="title_activity_scrolling">ScrollingActivity</string>
+
+    <string name="toolbar">Python Server</string>
+    <string name="button">Send Text to server</string>
+    <string name="editText">Enter something</string>
+
+    <string name="action_settings">Settings</string>
+</resources>
